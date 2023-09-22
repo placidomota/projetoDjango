@@ -1,4 +1,4 @@
-# projetoDjango
+
 Primeiros Passos com Django
 
 # Escrevendo seu primeiro aplicativo Django, parte 1
