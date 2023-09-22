@@ -7,13 +7,13 @@ Primeiros Passos com Django
 
 
 # Criando um projeto
-##$ django-admin startproject mysite
+## $ django-admin startproject mysite
 
 # O servidor de desenvolvimento
-##$ python manage.py runserver
+## $ python manage.py runserver
 
 # Mudando a porta padrao
-##$ python manage.py runserver 8080
+## $ python manage.py runserver 8080
 
 ## $ python manage.py runserver 0:8000
 
